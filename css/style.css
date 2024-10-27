@@ -312,7 +312,7 @@ select:focus{
     height: 40px;
     padding-left: 10px;
     font-size: 20px;
-    margin-right: 10px;
+    margin-right: 20px;
     border: 1px solid #ff523b;
 }
 input:focus{
