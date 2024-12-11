@@ -73,7 +73,7 @@ p {
     background: #563434;
 }
 .header{
-    background: radial-gradient(#fff,#ffd6d6);
+    background: radial-gradient(#fff,#b4e87a);
 }
 .header .row{
     margin-top: 70px;
@@ -137,7 +137,7 @@ h4{
     transform: translateY(-10px);
 }
 .oferta{
-    background: radial-gradient(#fff,#ffd6d6);
+    background: radial-gradient(#fff,#b4e87a);
     margin-top: 80px;
     padding: 30px 0;
 }
@@ -389,7 +389,7 @@ th:last-child{
 
 .pagina-cuenta{
     padding: 50px 0;
-    background: radial-gradient(#fff, #ffd6d6);
+    background: radial-gradient(#fff, #b4e87a);
 }
 .form-container{
     background: #fff;
